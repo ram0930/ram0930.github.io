@@ -74,8 +74,16 @@ body, html {
     font-size: 30px;
     min-height: 100%;
     width: 100%;
-    background-color: #DCC398;
+    background-color: #FFFFAA;
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.s-2 {
+    background-color: #BBFAFF;
+}
+
+.container {
+    text-align: center;
 }
