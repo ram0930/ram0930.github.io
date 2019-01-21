@@ -118,3 +118,8 @@ body, html {
     padding-left: 100px;
     text-align: left;
 }
+
+.notfoundbox{
+    padding: 20px;
+    text-align: center;
+}
