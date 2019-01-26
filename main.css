@@ -49,7 +49,6 @@ body, html {
 .background {
     min-height: 1000px;
     background-attachment: fixed;
-    background-position: center;
     
 }
 
@@ -77,15 +76,17 @@ body, html {
 /*背景画像設定*/
 .bg-1 {
     background-image: url("img/bw_background001.png");
+    background-position: top;
 }
 
 .bg-2 {
     background-image: url("img/bw_background002.png");
+    background-position: top;
 }
 
 .bg-3 {
-    background-position: bottom;
     background-image: url("img/bw_background003.jpg");
+    background-position: bottom;
 }
 
 
