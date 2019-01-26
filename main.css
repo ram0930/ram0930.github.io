@@ -81,7 +81,7 @@ body, html {
 
 .bg-2 {
     background-image: url("img/bw_background002.png");
-    background-position: top;
+    background-position: center;
 }
 
 .bg-3 {
