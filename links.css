@@ -1,0 +1,65 @@
+@charset "UTF-8";
+/*背景*/
+.background {
+    min-height: 1000px;
+    background-attachment: fixed;
+    
+}
+
+/*見出し的な*/
+.main-textbox {
+    min-height: 950px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main-text {
+    font-size: 20px;
+    color: #ffffff
+}
+
+/*フッター*/
+.footer {
+    text-align: center;
+    font-size: 20px;
+    color: #ffffff
+}
+
+
+/*背景画像設定*/
+.bg-1 {
+    background-image: url("img/bw_background001.png");
+    background-position: top;
+}
+
+.bg-2 {
+    background-image: url("img/bw_background002.png");
+    background-position: center;
+}
+
+.bg-3 {
+    background-image: url("img/bw_background003.jpg");
+    background-position: bottom;
+}
+
+.s-1 {
+    background-color: #ffffff;
+}   
+
+.s-2 {
+    background-color: #ffffff
+}
+
+.h-1 {
+    border-bottom: solid 4px #444444;
+}
+
+.h-2 {
+    border-bottom: solid 4px #444444;
+}
+
+.list {
+    padding-left: 100px;
+    text-align: left;
+}
